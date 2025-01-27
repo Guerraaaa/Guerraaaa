@@ -6,9 +6,7 @@
 
 
 <p align="center">
-Atualmente trabalho com C#, porém já trabalhei com React.js, amo aprender coisas novas relacionadas a tecnologia! Sou formado como técnico de informática, e estou no segundo ano da faculdade de Ciências da Computação. 
-  Venho a cada dia crescendo profissionalmente e pessoalmente, com o desenvolvimento de soft e hard skills. 
-  Além de ser apaixonado por tecnologia, sou entusiasta em Historia e Filosofia. 
+I work with C#, but I have also worked with React.js. I love learning new things related to technology! I hold a degree as an IT Technician and am in my second year of Computer Science. Every day, I strive to grow both professionally and personally, developing my soft and hard skills. In addition to being passionate about technology, I am also an enthusiast of History and Philosophy.
 </p>
 </br>
 
