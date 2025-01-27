@@ -1,7 +1,8 @@
-<p align="center">
+<div style="display: flex; justify-content:'center'; align-center:'center';">
+<p align="center" >
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=ffffff&background=FF353500&center=true&vCenter=true&repeat=true&width=435&lines=Hi;+My+name+is+Mario+Guerra;+I'm++19++years++old;+I'm++a++Software++Developer;+I'm++from++Brazil" alt="Typing SVG" width="600">
 </p>
-
+</div>
 #
 
 
