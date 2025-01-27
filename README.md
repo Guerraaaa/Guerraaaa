@@ -1,14 +1,13 @@
-<div style="display: flex; justify-content:'center'; align-center:'center';">
+
 <p align="center" >
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=ffffff&background=FF353500&center=true&vCenter=true&repeat=true&width=435&lines=Hi;+My+name+is+Mario+Guerra;+I'm++19++years++old;+I'm++a++Software++Developer;+I'm++from++Brazil" alt="Typing SVG" width="600">
 </p>
-</div>
-#
 
 
-<p align="center">
+<div style="display: flex; justify-content:'center'; align-center:'center';">
 I work with C#, but I have also worked with React.js. I love learning new things related to technology! I hold a degree as an IT Technician and am in my second year of Computer Science. Every day, I strive to grow both professionally and personally, developing my soft and hard skills. In addition to being passionate about technology, I am also an enthusiast of History and Philosophy.
-</p>
+</div>
+  
 </br>
 
 <p align="center">
